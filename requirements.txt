@@ -1,0 +1,4 @@
+ultralytics>=8.4.0  # 8.4+ required for PyTorch 2.6 compatibility
+gradio>=4.0.0
+opencv-python
+numpy
