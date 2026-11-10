@@ -12,7 +12,9 @@ Detects: **Helmets · Gloves · Eye Protection · Ear Protection · Masks** — 
 
 ## Demo
 
-<video src="https://github.com/user-attachments/assets/47bf975f-f39f-4389-839d-5f4520b35ad6" controls autoplay muted loop width="100%"></video>
+![PPE-watch live demo](demo.gif)
+
+[Full demo video (43s)](demo.mp4)
 
 ## How It Works
 
